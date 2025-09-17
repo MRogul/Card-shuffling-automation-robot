@@ -27,5 +27,5 @@ The main goal was to create a prototype capable of efficiently shuffling cards w
 - Standard electronic components (motors, microcontrollers, sensors)  
 
 ## 📷 Project Screenshots  
-![Card Shuffler Prototype](./images/card_shuffler_prototype.png)  
-![3D Printed Components](./images/3d_printed_components.png)  
+![Card Shuffler Prototype](./images/full.png)  
+![3D Printed Components](./images/CAD.png)  
